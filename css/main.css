@@ -9,7 +9,10 @@ body{
   font-size: 14px;
   overflow: hidden;
 }
-
+/*Header Color*/
+#header {
+    background-color: #0067b2;
+}
 /*Header Fonts*/
 @font-face {
   font-family: 'open_sanssemibold';
@@ -324,7 +327,7 @@ img{
   background-repeat: no-repeat;
 }
 .app-error .loading-message {
-  /* Error status */
+  /* Error status */F
   background-position: top center;
   background-image: url(../images/error.png);
   background-repeat: no-repeat;

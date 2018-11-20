@@ -30,7 +30,7 @@ define({
   // hosted version of the application can apply custom styles
   // not used in the download version.
   "customstyle": true,
-  "background": "#934646",
+  "background": "#0067b2",
   "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
@@ -45,7 +45,7 @@ define({
   "showSocialIcons": true,
   "showSocialText": true,
   "socialLink": "https://storymaps.arcgis.com",
-  "socialText": "A Story Map",
+  "socialText": "A Story Map for Culvers",
   "headerHeight": "115",
   "legend": true,
   "legendOpen": false,
