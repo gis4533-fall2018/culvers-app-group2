@@ -125,11 +125,12 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
     margin: 0;
 }
 #subtitle{
-  font-family: "BrothersBold",sans-serif;
+  font-family: "Shelby",sans-serif;
+  font-style: antialiased;
   padding-left:4px;
   line-height: 18px;
   word-wrap:break-word;
-  text-align: center;
+  text-align: left;
   height:54px;
   font-size: 13px;
   font-weight: 400;
