@@ -125,10 +125,11 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
     margin: 0;
 }
 #subtitle{
-  font-family: "open_sansregular",sans-serif;
+  font-family: "BrothersBold",sans-serif;
   padding-left:4px;
   line-height: 18px;
   word-wrap:break-word;
+  text-align: center;
   height:54px;
   font-size: 13px;
   font-weight: 400;
@@ -194,9 +195,10 @@ a {
 a:hover{
   text-decoration: underline;
 }
+/*Changed logo size*/
 .logoImg{
-  max-width: 250px;
-  max-height: 50px;
+  max-width: 300px;
+  max-height: 80px;
 }
 img{
   border:none;
