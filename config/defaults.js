@@ -57,7 +57,7 @@ define({
   //When true the geocoder search box is displayed in the title area
   //When searchextent is true the geocoder will prioritize results within
   //the current map extent
-  "search": false,
+  "search": true,
   "searchExtent": true,
   "locationSearch": true,
   "searchLayers": [{
