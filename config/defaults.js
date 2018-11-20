@@ -29,6 +29,8 @@ define({
   // This is an option added so that developers working with the
   // hosted version of the application can apply custom styles
   // not used in the download version.
+/*I changed some of the styling here such as colors, text, adding culvers logo and linking it to their website*/
+/*You can click on the social media links in the corner to share this map*/
   "customstyle": true,
   "background": "#0067b2",
   "color": "#fff",

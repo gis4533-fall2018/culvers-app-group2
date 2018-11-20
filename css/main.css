@@ -105,6 +105,7 @@ body{
   float:right;
   padding-right:25px;
 }
+/*Changing title and subtitle font to look somewhat like Culvers, could not find the exact font of Culvers because it was expensive*/
 #title{
   font-family:'Chakra Petch', sans-serif;
   font-weight: bold;
